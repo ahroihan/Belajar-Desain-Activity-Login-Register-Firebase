@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "278833065519",
-    "project_id": "login-register-firebase-a1f42",
-    "storage_bucket": "login-register-firebase-a1f42.appspot.com"
+    "project_number": "dapat-dari-google",
+    "project_id": "dapat-dari-google",
+    "storage_bucket": "dapat-dari-google"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:278833065519:android:571176586e1a7ce68b20da",
+        "mobilesdk_app_id": "dapat-dari-google",
         "android_client_info": {
-          "package_name": "com.webiotid.loginregisterfirebase"
+          "package_name": "dapat-dari-google"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAK1od1jfmwYcTZ0_pp8Ht8QMyTwSzoluM"
+          "current_key": "dapat-dari-google"
         }
       ],
       "services": {
